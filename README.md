@@ -1,5 +1,5 @@
 # Freecodecamp
-### surver form
+### survey form
 **first certicate project of the [Freecodecamp](https://www.freecodecamp.org/) and it's lessons**
 
 
