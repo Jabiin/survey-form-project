@@ -1,6 +1,6 @@
 # Freecodecamp
 
-**in this repo i'll share my complete [Freecodecamp](https://www.freecodecamp.org/) procces**
+**first certicate project of the [Freecodecamp](https://www.freecodecamp.org/) and it's lessons**
 
 
 
