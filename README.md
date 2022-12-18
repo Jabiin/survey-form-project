@@ -13,5 +13,5 @@
 
 [my freecodecamp account](https://www.freecodecamp.org/maan_m_m)
 
-####   [github pages of the survey form project ](https://github.com/abdurahmanjabiin/Freecodecamp/tree/main/01-learn%20html%20by%20building%20a%20cat%20photo)
+####   [github pages of the survey form project ](https://abdurahmanjabiin.github.io/Freecodecamp/)
 
