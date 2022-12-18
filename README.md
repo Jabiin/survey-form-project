@@ -13,5 +13,5 @@
 
 [my freecodecamp account](https://www.freecodecamp.org/maan_m_m)
 
-####   [github pages of the survey form project ](https://abdurahmanjabiin.github.io/Freecodecamp/)
+####   [github pages of the survey form project ](https://abdurahmanjabiin.github.io/survey-form-project/)
 
